@@ -29,6 +29,9 @@ public class Practise {
 		System.out.println(d1);
 		
 		
+		String s1="hostel";
+		System.out.println(s1);
+		
 		
 		
 	}
