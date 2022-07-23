@@ -31,6 +31,8 @@ public class Practise {
 		
 		String s1="hostel";
 		System.out.println(s1);
+		String s2="hostel2 is clean";
+		System.out.println(s2);
 		
 		
 		
